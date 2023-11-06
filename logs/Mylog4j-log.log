@@ -1,0 +1,1022 @@
+[ERROR]2023-10-2609:38:19.823[main]log4j.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2023-10-2609:38:19.826[main]log4j.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2023-10-2609:38:19.827[main]log4j.LoggerLoad1)-Warning - Testing
+[INFO ]2023-10-2815:10:36.016[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-2815:10:36.026[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-10-2815:19:53.330[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-2815:19:53.341[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-10-2815:20:13.867[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-2815:20:13.880[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-10-3110:41:57.560[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-3110:41:57.566[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-10-3110:42:10.383[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-10-3110:42:10.536[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-10-3110:42:55.370[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-3110:42:55.391[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-10-3110:43:01.514[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-10-3110:43:01.707[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-10-3110:51:31.123[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-3110:51:31.134[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-10-3110:51:38.270[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-10-3110:51:38.439[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-10-3111:24:23.656[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-3111:24:23.662[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-10-3111:24:30.967[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-10-3111:24:31.135[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-10-3114:23:05.401[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-10-3114:23:05.405[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-10-3114:23:08.974[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-10-3114:23:09.055[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0116:02:02.566[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0116:02:02.573[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0116:02:09.139[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0116:02:09.245[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0116:02:30.335[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0116:02:30.342[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0116:02:35.103[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0116:02:35.232[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0116:07:08.421[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0116:07:08.433[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0116:07:13.990[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0116:07:14.188[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0116:07:38.079[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0116:07:38.088[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0116:07:42.866[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0116:07:42.977[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0116:18:30.051[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0116:18:30.072[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0116:18:35.522[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0116:18:35.736[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0116:55:18.303[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0116:55:18.307[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0116:55:23.695[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0116:55:23.876[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0116:55:24.284[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0116:55:24.881[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0116:55:24.898[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:25.030[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0116:55:25.089[main]utilities.LoggerLoad1)-Click Get Started link on Data Structures-Introduction
+[INFO ]2023-11-0116:55:25.467[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:25.482[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:25.598[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0116:55:25.654[main]utilities.LoggerLoad1)-Click Get Started link on Array
+[INFO ]2023-11-0116:55:26.103[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:26.116[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:26.286[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0116:55:26.375[main]utilities.LoggerLoad1)-Click Get Started link on Linkedlist
+[INFO ]2023-11-0116:55:26.918[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:26.936[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:27.123[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0116:55:27.220[main]utilities.LoggerLoad1)-Click Get Started link on Stack
+[INFO ]2023-11-0116:55:27.824[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:27.849[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:27.973[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0116:55:28.026[main]utilities.LoggerLoad1)-Click Get Started link on Queue
+[INFO ]2023-11-0116:55:28.490[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:28.500[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:28.674[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0116:55:28.765[main]utilities.LoggerLoad1)-Click Get Started link on Tree
+[INFO ]2023-11-0116:55:29.274[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:29.294[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:29.453[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0116:55:29.522[main]utilities.LoggerLoad1)-Click Get Started link on Graph
+[INFO ]2023-11-0116:55:30.036[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:30.062[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0116:55:30.362[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0116:55:30.459[main]utilities.LoggerLoad1)-Click Arrays link in the dropdown
+[INFO ]2023-11-0116:55:30.875[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:30.884[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0116:55:31.020[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0116:55:31.069[main]utilities.LoggerLoad1)-Click Linked List link in the dropdown
+[INFO ]2023-11-0116:55:31.493[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:31.506[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0116:55:31.657[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0116:55:31.705[main]utilities.LoggerLoad1)-Click Stack link in the dropdown
+[INFO ]2023-11-0116:55:32.041[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:32.050[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0116:55:32.192[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0116:55:32.241[main]utilities.LoggerLoad1)-Click Queue link in the dropdown
+[INFO ]2023-11-0116:55:32.667[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:32.678[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0116:55:32.822[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0116:55:32.873[main]utilities.LoggerLoad1)-Click Tree link in Tree
+[INFO ]2023-11-0116:55:33.230[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:33.241[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0116:55:33.378[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0116:55:33.429[main]utilities.LoggerLoad1)-Click Graph link in Graph
+[INFO ]2023-11-0116:55:33.823[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0116:55:33.833[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:33.835[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0116:55:34.171[main]log4j.LoggerLoad1)-Title of the Current Page : Login
+[INFO ]2023-11-0116:55:34.181[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0116:55:34.182[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0116:55:34.440[main]log4j.LoggerLoad1)-Title of the Current Page : Registration
+[INFO ]2023-11-0116:55:34.442[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0117:03:03.786[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0117:03:03.803[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0117:03:09.472[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0117:03:09.631[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0117:03:10.028[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0117:03:10.634[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0117:03:10.651[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:10.778[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0117:03:10.843[main]utilities.LoggerLoad1)-Click Get Started link on Data Structures-Introduction
+[INFO ]2023-11-0117:03:11.321[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:11.331[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:11.508[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0117:03:11.606[main]utilities.LoggerLoad1)-Click Get Started link on Array
+[INFO ]2023-11-0117:03:12.200[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:12.225[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:12.372[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0117:03:12.424[main]utilities.LoggerLoad1)-Click Get Started link on Linkedlist
+[INFO ]2023-11-0117:03:12.887[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:12.900[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:13.286[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0117:03:13.388[main]utilities.LoggerLoad1)-Click Get Started link on Stack
+[INFO ]2023-11-0117:03:13.967[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:13.994[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:14.203[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0117:03:14.304[main]utilities.LoggerLoad1)-Click Get Started link on Queue
+[INFO ]2023-11-0117:03:14.912[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:14.934[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:15.122[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0117:03:15.224[main]utilities.LoggerLoad1)-Click Get Started link on Tree
+[INFO ]2023-11-0117:03:15.843[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:15.857[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:16.033[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0117:03:16.088[main]utilities.LoggerLoad1)-Click Get Started link on Graph
+[INFO ]2023-11-0117:03:16.579[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:16.602[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0117:03:16.894[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0117:03:16.980[main]utilities.LoggerLoad1)-Click Arrays link in the dropdown
+[INFO ]2023-11-0117:03:17.349[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:17.358[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0117:03:17.494[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0117:03:17.539[main]utilities.LoggerLoad1)-Click Linked List link in the dropdown
+[INFO ]2023-11-0117:03:17.897[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:17.911[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0117:03:18.047[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0117:03:18.094[main]utilities.LoggerLoad1)-Click Stack link in the dropdown
+[INFO ]2023-11-0117:03:18.431[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:18.442[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0117:03:18.573[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0117:03:18.625[main]utilities.LoggerLoad1)-Click Queue link in the dropdown
+[INFO ]2023-11-0117:03:18.980[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:18.991[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0117:03:19.125[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0117:03:19.173[main]utilities.LoggerLoad1)-Click Tree link in Tree
+[INFO ]2023-11-0117:03:19.558[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:19.567[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0117:03:19.706[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0117:03:19.756[main]utilities.LoggerLoad1)-Click Graph link in Graph
+[INFO ]2023-11-0117:03:20.257[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0117:03:20.269[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:20.271[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0117:03:20.553[main]log4j.LoggerLoad1)-Title of the Current Page : Login
+[INFO ]2023-11-0117:03:20.559[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0117:03:20.560[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0117:03:20.788[main]log4j.LoggerLoad1)-Title of the Current Page : Registration
+[INFO ]2023-11-0117:03:20.790[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0122:41:52.248[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0122:41:52.251[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0122:41:55.868[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0122:41:55.969[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0122:41:56.321[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0122:41:56.725[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0122:41:56.738[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:41:56.827[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0122:41:56.860[main]utilities.LoggerLoad1)-Click Get Started link on Data Structures-Introduction
+[INFO ]2023-11-0122:41:57.135[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:57.141[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:41:57.260[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0122:41:57.285[main]utilities.LoggerLoad1)-Click Get Started link on Array
+[INFO ]2023-11-0122:41:57.562[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:57.566[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:41:57.649[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0122:41:57.679[main]utilities.LoggerLoad1)-Click Get Started link on Linkedlist
+[INFO ]2023-11-0122:41:57.965[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:57.968[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:41:58.046[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0122:41:58.072[main]utilities.LoggerLoad1)-Click Get Started link on Stack
+[INFO ]2023-11-0122:41:58.340[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:58.344[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:41:58.448[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0122:41:58.471[main]utilities.LoggerLoad1)-Click Get Started link on Queue
+[INFO ]2023-11-0122:41:58.730[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:58.734[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:41:58.814[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0122:41:58.838[main]utilities.LoggerLoad1)-Click Get Started link on Tree
+[INFO ]2023-11-0122:41:59.116[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:59.120[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:41:59.198[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0122:41:59.225[main]utilities.LoggerLoad1)-Click Get Started link on Graph
+[INFO ]2023-11-0122:41:59.478[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:59.482[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0122:41:59.569[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0122:41:59.594[main]utilities.LoggerLoad1)-Click Arrays link in the dropdown
+[INFO ]2023-11-0122:41:59.803[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:41:59.808[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0122:41:59.866[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0122:41:59.889[main]utilities.LoggerLoad1)-Click Linked List link in the dropdown
+[INFO ]2023-11-0122:42:00.094[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:42:00.096[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0122:42:00.153[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0122:42:00.181[main]utilities.LoggerLoad1)-Click Stack link in the dropdown
+[INFO ]2023-11-0122:42:00.412[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:42:00.415[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0122:42:00.478[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0122:42:00.500[main]utilities.LoggerLoad1)-Click Queue link in the dropdown
+[INFO ]2023-11-0122:42:00.716[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:42:00.722[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0122:42:00.783[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0122:42:00.804[main]utilities.LoggerLoad1)-Click Tree link in Tree
+[INFO ]2023-11-0122:42:01.014[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:42:01.017[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0122:42:01.078[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0122:42:01.101[main]utilities.LoggerLoad1)-Click Graph link in Graph
+[INFO ]2023-11-0122:42:01.325[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0122:42:01.329[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:42:01.330[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0122:42:01.486[main]log4j.LoggerLoad1)-Title of the Current Page : Login
+[INFO ]2023-11-0122:42:01.489[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0122:42:01.490[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0122:42:01.648[main]log4j.LoggerLoad1)-Title of the Current Page : Registration
+[INFO ]2023-11-0122:42:01.649[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0209:17:02.056[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0209:17:02.083[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0209:17:08.425[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0209:17:08.805[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0209:20:31.276[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0209:20:31.284[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0209:20:36.872[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0209:20:37.241[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0209:22:22.798[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0209:22:22.817[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0209:22:27.729[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0209:22:28.096[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0214:52:34.839[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0214:52:34.859[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0214:52:40.983[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0214:52:41.146[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0214:52:41.206[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0214:52:42.229[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0214:52:42.231[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0214:52:42.259[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0214:52:42.650[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:25:25.562[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:25:25.574[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:25:31.921[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[ERROR]2023-11-0313:25:32.108[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:25:32.916[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:25:33.365[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:25:33.887[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:25:34.325[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:25:34.782[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:25:35.194[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0313:25:35.581[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:29:00.226[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:29:00.234[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:29:05.885[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[ERROR]2023-11-0313:29:06.072[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:29:06.769[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:29:07.190[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:29:07.700[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:29:08.148[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:29:08.586[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[ERROR]2023-11-0313:29:09.022[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0313:29:09.404[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:48:15.865[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:48:15.869[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:48:21.603[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0313:48:21.966[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:52:14.757[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:52:14.769[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:52:20.791[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0313:52:21.182[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:54:44.362[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:54:44.369[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:54:49.908[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0313:54:50.269[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:55:10.824[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:55:10.840[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:55:15.580[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0313:55:15.908[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:56:50.156[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:56:50.161[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:56:55.110[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0313:56:55.479[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:57:53.142[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:57:53.151[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:57:57.993[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0313:57:58.339[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0313:59:47.750[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0313:59:47.755[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0313:59:52.561[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0313:59:52.912[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0410:30:50.842[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0410:30:50.856[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0410:30:57.090[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0410:30:57.289[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:30:57.355[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:30:58.156[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:30:58.180[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:30:58.591[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:30:58.615[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:30:59.030[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:30:59.053[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:30:59.536[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:30:59.560[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:30:59.942[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:30:59.964[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:31:00.348[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:31:00.368[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:31:00.772[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:31:00.794[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:31:01.160[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0410:31:01.172[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0410:31:01.204[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:31:01.584[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0410:31:46.308[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.356[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.391[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.412[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.433[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.455[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.474[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.491[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0410:31:46.509[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0410:31:46.511[main]utilities.LoggerLoad1)-User clicks the signout link
+[INFO ]2023-11-0410:32:04.343[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0410:32:04.349[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0410:32:09.206[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0410:32:09.513[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0410:32:09.925[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0410:32:10.557[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0410:32:10.598[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:10.742[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0410:32:10.810[main]utilities.LoggerLoad1)-Click Get Started link on Data Structures-Introduction
+[INFO ]2023-11-0410:32:11.336[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:11.361[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:11.537[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0410:32:11.594[main]utilities.LoggerLoad1)-Click Get Started link on Array
+[INFO ]2023-11-0410:32:12.087[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:12.120[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:12.304[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0410:32:12.374[main]utilities.LoggerLoad1)-Click Get Started link on Linkedlist
+[INFO ]2023-11-0410:32:12.884[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:12.920[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:13.085[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0410:32:13.136[main]utilities.LoggerLoad1)-Click Get Started link on Stack
+[INFO ]2023-11-0410:32:13.560[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:13.577[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:13.753[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0410:32:13.795[main]utilities.LoggerLoad1)-Click Get Started link on Queue
+[INFO ]2023-11-0410:32:14.345[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:14.381[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:14.564[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0410:32:14.615[main]utilities.LoggerLoad1)-Click Get Started link on Tree
+[INFO ]2023-11-0410:32:15.194[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:15.236[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:15.407[main]log4j.LoggerLoad1)-User clicks on get started link
+[INFO ]2023-11-0410:32:15.493[main]utilities.LoggerLoad1)-Click Get Started link on Graph
+[INFO ]2023-11-0410:32:16.045[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:16.078[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0410:32:16.256[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0410:32:16.308[main]utilities.LoggerLoad1)-Click Arrays link in the dropdown
+[INFO ]2023-11-0410:32:16.690[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:16.707[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0410:32:16.842[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0410:32:16.898[main]utilities.LoggerLoad1)-Click Linked List link in the dropdown
+[INFO ]2023-11-0410:32:17.293[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:17.307[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0410:32:17.486[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0410:32:17.539[main]utilities.LoggerLoad1)-Click Stack link in the dropdown
+[INFO ]2023-11-0410:32:17.913[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:17.925[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0410:32:18.066[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0410:32:18.104[main]utilities.LoggerLoad1)-Click Queue link in the dropdown
+[INFO ]2023-11-0410:32:18.474[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:18.489[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0410:32:18.626[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0410:32:18.674[main]utilities.LoggerLoad1)-Click Tree link in Tree
+[INFO ]2023-11-0410:32:19.080[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:19.097[main]log4j.LoggerLoad1)-User clicks on dropdown link
+[INFO ]2023-11-0410:32:19.232[main]utilities.LoggerLoad1)-Click Data Structures link in the dropdown
+[INFO ]2023-11-0410:32:19.281[main]utilities.LoggerLoad1)-Click Graph link in Graph
+[INFO ]2023-11-0410:32:19.739[main]log4j.LoggerLoad1)-Actual Alert Message : You are not logged in
+[INFO ]2023-11-0410:32:19.759[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:19.762[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0410:32:20.069[main]log4j.LoggerLoad1)-Title of the Current Page : Login
+[INFO ]2023-11-0410:32:20.079[main]log4j.LoggerLoad1)-User is on home page
+[INFO ]2023-11-0410:32:20.079[main]log4j.LoggerLoad1)-The User clicks on SignIn Button
+[INFO ]2023-11-0410:32:20.308[main]log4j.LoggerLoad1)-Title of the Current Page : Registration
+[INFO ]2023-11-0410:32:20.325[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0410:32:37.874[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0410:32:37.882[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0410:32:42.519[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0410:32:42.727[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:42.790[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:43.482[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:43.504[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:43.895[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:43.917[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:44.301[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:44.325[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:44.714[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:44.739[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:45.156[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:45.176[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:45.564[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:45.586[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:46.073[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:32:46.099[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:46.514[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0410:32:46.514[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0410:32:46.550[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:32:46.919[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0410:33:05.061[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0410:33:05.068[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0410:33:09.653[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0410:33:09.885[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:09.949[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:10.600[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:10.623[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:11.004[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:11.027[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:11.481[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:11.506[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:11.931[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:11.953[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:12.330[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:12.350[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:12.712[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:12.734[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:13.103[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0410:33:13.125[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:13.511[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0410:33:13.511[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0410:33:13.546[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0410:33:13.987[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0515:44:59.145[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0515:44:59.151[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0515:45:05.246[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0515:45:05.428[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:05.490[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:06.194[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:06.215[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:06.609[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:06.631[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:07.014[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:07.038[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:07.473[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:07.506[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:07.911[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:07.942[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:08.295[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:08.316[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:08.716[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0515:45:08.738[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:09.172[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0515:45:09.173[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0515:45:09.205[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0515:45:09.583[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:03:20.012[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:03:20.029[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:03:25.314[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:03:25.511[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:25.573[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:26.224[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:26.246[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:26.637[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:26.659[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:27.019[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:27.043[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:27.453[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:27.484[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:27.925[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:27.947[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:28.359[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:28.380[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:28.792[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:03:28.813[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:29.204[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:03:29.204[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:03:29.230[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:03:29.576[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:04:46.357[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:04:46.377[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:04:50.987[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:04:51.159[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:51.224[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:51.883[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:51.904[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:52.292[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:52.316[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:52.691[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:52.716[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:53.161[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:53.185[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:53.650[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:53.673[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:54.137[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:54.160[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:54.656[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:04:54.678[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:55.130[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:04:55.130[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:04:55.161[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:04:55.606[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:05:35.122[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:05:35.127[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:05:39.714[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:05:39.932[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:40.007[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:40.647[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:40.670[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:41.079[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:41.102[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:41.451[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:41.474[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:41.862[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:41.895[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:42.279[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:42.301[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:42.675[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:42.696[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:43.064[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:05:43.086[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:43.454[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:05:43.456[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:05:43.484[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:05:43.838[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:12:19.368[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:12:19.375[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:12:24.697[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:12:24.964[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:25.040[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:25.760[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:25.783[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:26.221[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:26.245[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:26.657[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:26.680[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:27.044[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:27.067[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:27.463[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:27.487[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:27.877[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:27.899[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:28.300[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[ERROR]2023-11-0516:12:28.323[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:28.744[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:12:28.744[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:12:28.776[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:12:29.150[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:14:57.563[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:14:57.572[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:15:02.957[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:15:03.150[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0516:15:03.591[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0516:15:04.176[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0516:15:04.204[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:04.578[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0516:15:04.746[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:06.089[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:06.339[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0516:15:06.344[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0516:15:06.608[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:07.156[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:07.382[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0516:15:07.384[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:15:07.485[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:15:07.829[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0516:15:07.829[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0516:15:07.884[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0516:15:07.985[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:08.268[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0516:15:08.404[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:15:08.588[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0516:15:09.008[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:09.478[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:09.693[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0516:15:09.805[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:15:09.950[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0516:15:10.352[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:10.809[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:11.029[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0516:15:11.133[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0516:15:11.278[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0516:15:11.651[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:12.093[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:12.300[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:15:12.449[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0516:15:12.595[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0516:15:12.984[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:13.424[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:13.657[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:15:13.760[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0516:15:13.933[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0516:15:14.388[main]utilities.LoggerLoad1)-User is redirected to Homepage 
+[INFO ]2023-11-0516:15:14.465[main]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-11-0516:15:14.478[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:15:14.480[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:15:14.914[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:15.407[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:15:41.773[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:15:41.778[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:15:46.414[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:15:46.598[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0516:15:47.125[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0516:15:47.787[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0516:15:47.818[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:48.164[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0516:15:48.295[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:49.534[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:49.771[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0516:15:49.775[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0516:15:50.020[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:50.611[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:50.824[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0516:15:50.824[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:15:50.914[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:15:51.252[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0516:15:51.252[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0516:15:51.304[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0516:15:51.417[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:51.716[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0516:15:51.816[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:15:51.959[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0516:15:52.365[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:52.810[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:53.025[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0516:15:53.120[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:15:53.243[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0516:15:53.619[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:54.078[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:54.299[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0516:15:54.400[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0516:15:54.535[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0516:15:54.887[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:55.341[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:55.548[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:15:55.651[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0516:15:55.819[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0516:15:56.306[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:56.758[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:15:56.973[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:15:57.068[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0516:15:57.246[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0516:15:57.698[main]utilities.LoggerLoad1)-User is redirected to Homepage 
+[INFO ]2023-11-0516:15:57.732[main]utilities.LoggerLoad1)-Title of current page is : Registration
+[ERROR]2023-11-0516:15:57.755[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:58.206[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:15:58.206[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:15:58.254[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:15:58.628[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:19:08.605[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:19:08.617[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:19:13.898[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:19:14.101[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0516:19:14.521[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0516:19:15.111[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0516:19:15.141[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:15.494[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0516:19:15.636[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:16.984[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:17.208[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0516:19:17.210[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0516:19:17.422[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:17.985[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:18.206[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0516:19:18.206[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:19:18.302[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:19:18.655[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0516:19:18.655[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0516:19:18.702[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0516:19:18.830[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:19.055[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0516:19:19.155[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:19:19.296[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0516:19:19.746[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:20.244[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:20.465[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0516:19:20.577[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:19:20.719[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0516:19:21.085[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:21.517[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:21.748[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0516:19:21.853[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0516:19:21.985[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0516:19:22.350[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:22.810[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:23.044[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:19:23.148[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0516:19:23.318[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0516:19:23.704[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:24.208[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:19:24.410[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:19:24.510[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0516:19:24.668[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0516:19:25.033[main]utilities.LoggerLoad1)-User is redirected to Homepage 
+[INFO ]2023-11-0516:19:25.055[main]utilities.LoggerLoad1)-Title of current page is : Registration
+[ERROR]2023-11-0516:19:25.068[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:25.528[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:19:25.542[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:19:25.598[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:19:25.993[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0516:20:09.891[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0516:20:09.912[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0516:20:14.571[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0516:20:14.758[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0516:20:15.152[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0516:20:15.647[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0516:20:15.679[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:16.054[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0516:20:16.246[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:17.548[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:17.820[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0516:20:17.825[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0516:20:18.086[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:18.702[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:18.918[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0516:20:18.918[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:20:19.028[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:20:19.368[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0516:20:19.371[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0516:20:19.425[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0516:20:19.544[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:19.887[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0516:20:20.080[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:20:20.334[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0516:20:20.828[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:21.259[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:21.481[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0516:20:21.594[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0516:20:21.721[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0516:20:22.117[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:22.525[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:22.734[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0516:20:22.836[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0516:20:22.971[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0516:20:23.396[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:23.870[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:24.077[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:20:24.177[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0516:20:24.328[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0516:20:24.773[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:25.304[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0516:20:25.500[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0516:20:25.595[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0516:20:25.771[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0516:20:26.484[main]utilities.LoggerLoad1)-User is redirected to Homepage 
+[INFO ]2023-11-0516:20:26.505[main]utilities.LoggerLoad1)-Title of current page is : Registration
+[ERROR]2023-11-0516:20:26.512[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:26.940[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0516:20:26.940[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0516:20:27.010[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0516:20:27.429[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0517:00:14.739[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0517:00:14.749[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0517:00:20.455[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0517:00:20.619[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0517:00:20.989[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0517:00:21.570[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0517:00:21.600[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:21.975[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0517:00:22.112[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:23.415[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:23.640[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0517:00:23.642[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0517:00:23.872[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:24.451[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:24.664[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0517:00:24.665[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:00:24.759[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:00:25.092[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0517:00:25.092[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0517:00:25.143[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0517:00:25.263[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:25.500[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0517:00:25.629[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:00:25.819[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0517:00:26.263[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:26.682[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:26.899[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0517:00:26.999[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:00:27.144[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0517:00:27.588[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:28.059[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:28.315[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0517:00:28.453[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0517:00:28.619[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0517:00:29.006[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:29.496[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:29.703[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:00:29.803[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0517:00:29.959[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0517:00:30.401[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:30.929[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:31.138[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:00:31.244[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0517:00:31.422[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0517:00:31.794[main]utilities.LoggerLoad1)-New Account Created. You are logged in as kamala@vimala 
+[INFO ]2023-11-0517:00:31.970[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0517:00:31.970[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0517:00:32.030[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:32.463[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0517:00:48.019[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0517:00:48.024[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0517:00:52.674[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0517:00:52.865[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0517:00:53.268[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0517:00:53.856[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0517:00:53.887[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:54.296[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0517:00:54.457[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:55.819[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:56.071[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0517:00:56.076[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0517:00:56.395[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:56.984[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:57.208[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0517:00:57.216[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:00:57.313[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:00:57.653[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0517:00:57.653[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0517:00:57.711[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0517:00:57.820[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:58.091[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0517:00:58.266[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:00:58.503[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0517:00:58.960[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:00:59.416[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:00:59.625[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0517:00:59.744[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:00:59.886[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0517:01:00.256[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:01:00.717[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:01:00.929[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0517:01:01.028[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0517:01:01.145[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0517:01:01.518[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:01:01.965[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:01:02.215[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:01:02.318[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0517:01:02.487[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0517:01:02.867[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:01:03.299[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:01:03.539[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:01:03.629[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0517:01:03.802[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0517:01:04.233[main]utilities.LoggerLoad1)-New Account Created. You are logged in as kamala@vimala 
+[INFO ]2023-11-0517:01:04.526[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0517:01:04.529[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0517:01:04.597[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:01:05.056[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0517:02:55.132[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0517:02:55.139[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0517:03:00.640[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0517:03:00.825[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0517:03:01.196[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0517:03:01.751[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0517:03:01.782[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:02.155[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0517:03:02.284[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:03:03.675[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:03.907[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0517:03:03.912[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0517:03:04.120[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:03:04.758[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:05.003[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0517:03:05.004[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:03:05.105[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:03:05.434[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0517:03:05.434[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0517:03:05.486[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0517:03:05.601[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:05.823[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0517:03:05.941[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:03:06.092[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0517:03:06.972[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:03:07.412[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:07.631[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0517:03:07.735[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0517:03:07.871[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0517:03:08.286[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:03:08.750[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:08.964[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0517:03:09.072[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0517:03:09.214[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0517:03:09.577[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:03:10.030[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:10.257[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:03:10.371[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0517:03:10.551[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0517:03:11.220[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:03:11.680[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0517:03:11.907[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0517:03:12.032[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0517:03:12.178[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0517:03:12.565[main]utilities.LoggerLoad1)-New Account Created. You are logged in as kamala@vimala 
+[INFO ]2023-11-0517:03:12.828[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0517:03:12.833[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0517:03:12.895[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0517:03:13.316[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0522:26:38.420[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0522:26:38.430[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0522:26:56.009[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0522:26:56.226[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0522:26:56.693[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0522:26:57.247[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0522:26:57.283[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:26:57.595[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0522:26:57.760[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:26:59.439[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:26:59.790[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0522:26:59.790[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0522:27:00.067[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:27:00.851[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:27:01.116[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0522:27:01.116[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0522:27:01.222[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0522:27:01.566[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0522:27:01.566[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0522:27:01.632[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0522:27:01.745[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:27:01.993[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0522:27:02.101[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0522:27:02.258[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0522:27:02.956[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:27:03.463[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:27:03.757[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0522:27:03.871[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0522:27:04.015[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0522:27:04.448[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:27:04.976[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:27:05.283[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0522:27:05.394[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0522:27:05.539[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0522:27:05.923[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:27:06.438[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:27:06.680[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0522:27:06.790[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0522:27:06.986[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0522:27:07.385[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:27:07.882[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:27:08.175[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0522:27:08.296[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0522:27:08.500[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0522:27:08.973[main]utilities.LoggerLoad1)-New Account Created. You are logged in as kamala@vimala 
+[INFO ]2023-11-0522:27:09.151[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0522:27:09.151[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0522:27:09.215[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:27:09.758[main]utilities.LoggerLoad1)-Closing Driver
+[INFO ]2023-11-0522:49:50.328[main]utilities.LoggerLoad1)-Loading config file
+[INFO ]2023-11-0522:49:50.342[main]utilities.LoggerLoad1)-Testing on chrome
+[INFO ]2023-11-0522:49:55.812[main]utilities.LoggerLoad1)-Initializing driver forchrome
+[INFO ]2023-11-0522:49:56.032[main]log4j.LoggerLoad1)-User is in DSAlgo portal page
+[INFO ]2023-11-0522:49:56.510[main]log4j.LoggerLoad1)-User clicks on Get Started link in the DSAlgo portal page
+[INFO ]2023-11-0522:49:57.164[main]log4j.LoggerLoad1)-Title of the Current Page : NumpyNinja
+[INFO ]2023-11-0522:49:57.209[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:49:57.599[main]utilities.LoggerLoad1)-User Clicks the Register Button without entering any values in Username Field
+[ERROR]2023-11-0522:49:57.787[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:49:59.379[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:49:59.633[main]utilities.LoggerLoad1)-The user enter valid username with other fields empty
+[INFO ]2023-11-0522:49:59.636[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[ERROR]2023-11-0522:49:59.921[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:50:00.652[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:50:00.894[main]utilities.LoggerLoad1)-The user enter valid username and valid password with Password Confirmation Field is empty
+[INFO ]2023-11-0522:50:00.894[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0522:50:01.010[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0522:50:01.347[main]utilities.LoggerLoad1)-Error Message is shown in the password confirmation textbox field : Please fill out this field.
+[INFO ]2023-11-0522:50:01.347[main]utilities.LoggerLoad1)-Checking whether username is empty field
+[INFO ]2023-11-0522:50:01.402[main]utilities.LoggerLoad1)-Password Confirmation is found to be empty so getting the required field value
+[INFO ]2023-11-0522:50:01.531[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:50:01.885[main]utilities.LoggerLoad1)-The User enters the username as : &**&**&
+[INFO ]2023-11-0522:50:02.098[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0522:50:02.250[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword
+[ERROR]2023-11-0522:50:02.674[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:50:03.105[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:50:03.330[main]utilities.LoggerLoad1)-The User enters the username as : Numpy@sdet117_1
+[INFO ]2023-11-0522:50:03.434[main]utilities.LoggerLoad1)-The User enters the password as : testpassword
+[INFO ]2023-11-0522:50:03.574[main]utilities.LoggerLoad1)-The User enters the password confirmation as : testpassword1
+[ERROR]2023-11-0522:50:03.948[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:50:04.373[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:50:04.614[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala1
+[INFO ]2023-11-0522:50:04.716[main]utilities.LoggerLoad1)-The User enters the password as : a1b2c3d
+[INFO ]2023-11-0522:50:04.853[main]utilities.LoggerLoad1)-The User enters the password confirmation as : a1b2c3d
+[ERROR]2023-11-0522:50:05.227[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:50:05.695[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:50:05.929[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0522:50:06.032[main]utilities.LoggerLoad1)-The User enters the password as : 12345678
+[INFO ]2023-11-0522:50:06.186[main]utilities.LoggerLoad1)-The User enters the password confirmation as : 12345678
+[ERROR]2023-11-0522:50:06.645[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:50:07.077[main]utilities.LoggerLoad1)-User Opens the Registration Page by clicking the Register Button 
+[INFO ]2023-11-0522:50:07.295[main]utilities.LoggerLoad1)-The User enters the username as : kamala@vimala
+[INFO ]2023-11-0522:50:07.390[main]utilities.LoggerLoad1)-The User enters the password as : RT56YU@78
+[INFO ]2023-11-0522:50:07.570[main]utilities.LoggerLoad1)-The User enters the password confirmation as : RT56YU@78
+[INFO ]2023-11-0522:50:07.944[main]utilities.LoggerLoad1)-New Account Created. You are logged in as kamala@vimala 
+[INFO ]2023-11-0522:50:08.174[main]utilities.LoggerLoad1)-User is in the SignIn Page 
+[INFO ]2023-11-0522:50:08.179[main]utilities.LoggerLoad1)-User clicks the signout link
+[ERROR]2023-11-0522:50:08.262[main]utilities.LoggerLoad1)-Steps Failed, Taking Screenshot
+[INFO ]2023-11-0522:50:08.744[main]utilities.LoggerLoad1)-Closing Driver
