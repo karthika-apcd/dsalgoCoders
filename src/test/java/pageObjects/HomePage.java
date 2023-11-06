@@ -74,6 +74,7 @@ public class HomePage {
 	}
 
 	public void homePage() {
+		LoggerLoad.info("Test Change");
 		driver.get(homeUrl);
 	}
 
