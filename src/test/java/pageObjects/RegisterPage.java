@@ -11,15 +11,13 @@ import org.openqa.selenium.support.PageFactory;
 
 import factory.DriverFactory;
 import io.cucumber.datatable.DataTable;
-import utilities.ConfigReader;
 import utilities.LoggerLoad;
-
 
 
 
 public class RegisterPage {
 	public static WebDriver driver = DriverFactory.getdriver();
-	String homeUrl = ConfigReader.getHomePage();
+
 	@FindBy(xpath = "//a[@href='/register']")
 	WebElement registerLink;
 	@FindBy(xpath = "//*[@value='Register']")
@@ -32,7 +30,7 @@ public class RegisterPage {
 	WebElement pwdConfirm;
 	@FindBy(xpath = "//*[@class='alert alert-primary']")
 	WebElement alertMsg;
-	@FindBy(xpath="//a[@href='/logout']")WebElement signout;
+	@FindBy(xpath="//*[@id=\"navbarCollapse\"]/div[2]/ul/a[3]]")WebElement signout;
 
 	//a[normalize-space()='Numpy@sdet117_14']
 	
@@ -93,21 +91,21 @@ public class RegisterPage {
 	// method to get the validation message that pops up when the username textbox
 	// is
 	// empty or required
- 	public String getEmptyFieldErrormsgUser() {
+	public String getEmptyFieldErrormsgUser() {
 		return username.getAttribute("validationMessage");
 	}
 
 	// method to get the validation message that pops up when the password textbox
 	// is
 	// empty or required
-   public String getEmptyFieldErrormsgPwd() {
+	public String getEmptyFieldErrormsgPwd() {
 		return password.getAttribute("validationMessage");
 	}
 
 	// method to get the validation message that pops up when the password
 	// confirmation textbox is
 	// empty or required
-     public String getEmptyFieldErrormsgPwdConfirm() {
+	public String getEmptyFieldErrormsgPwdConfirm() {
 		return pwdConfirm.getAttribute("validationMessage");
 	}
 
@@ -163,30 +161,23 @@ public class RegisterPage {
 		return pageTitle;
 
 	}
-	public void homepage() {		
-
-		driver.get(homeUrl);
-		
-	}
+	
 	//method to get the message
-	//--public String getMsg() {
-	//--	String msg = null;
-	//--	try {
-	//--		msg = alertMsg.getText();
-	//--	} catch (NoSuchElementException e) {
-//--			e.printStackTrace();
-	//--		LoggerLoad.info("No Such Element Found");
+	public String getMsg() {
+		String msg = null;
+		try {
+			msg = alertMsg.getText();
+		} catch (NoSuchElementException e) {
+			e.printStackTrace();
+			LoggerLoad.info("No Such Element Found");
 
-//--		}
-	//--	return msg;
+		}
+		return msg;
 
-//--	}
+	}
 	//method to click signout link
 	public void clickSignOutLink() {		
 		signout.click();
 		
 	}
-
-
-
 }
