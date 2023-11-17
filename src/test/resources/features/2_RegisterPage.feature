@@ -1,5 +1,3 @@
-
-
 Feature: Test the Register page
  @TC_01
     Scenario: User launch home page of an dsalgo project
@@ -42,7 +40,7 @@ Feature: Test the Register page
     Given The user opens Register Page 
     When The user clicks "Register" button after entering valid "username" and different passwords in "password" and "password confirmation" fields 
 	      | username     		| password     | password confirmation | 
-	      | Numpy@sdet117_1 | testpassword | testpassword1   |  
+	      | kamalamala          | testpassword | testpassword1   |  
     Then It should display an error message "password_mismatch:The two password fields didn’t match."  
     
      @TC_07
@@ -50,7 +48,7 @@ Feature: Test the Register page
     Given The user opens Register Page
     When he user enters a valid "username" and "password" with characters less than 8.
 	      | username     		| password | password confirmation | 
-	      | kamala@vimala1 | a1b2c3d  | a1b2c3d            | 
+	      | kamalamala      | a1b2c3d  | a1b2c3d            | 
     Then It should display an error message "Password should contain at least 8 characters." 
     
      @TC_08  
@@ -58,15 +56,15 @@ Feature: Test the Register page
     Given The user opens Register Page 
     When The user enters a valid "username" and "password" with only numbers 
       | username     	 	| password | password confirmation | 
-      | kamala@vimala | 12345678 |              12345678 | 
+      | kamalamala      | 12345678 |              12345678 | 
     Then It should display an error message "Password can’t be entirely numeric." 
     
     @TC_09 
    Scenario:  The user is succesfully able to register  
     Given The user opens Register Page 
     When The user enters a valid "username" and "password" and "password confirmation" 
-      | username     | password  | password confirmation | 
-      | kamala@vimala| RT56YU@78 | RT56YU@78       | 
+      | username     | password    | password confirmation | 
+      | kamalamala   | kamalamalav |kamalamalav      | 
     Then The user should be redirected to Homepage with the message "New Account Created. You are logged in as kamala@vimala"
    		
      @TC_10

@@ -15,12 +15,11 @@ public class HomePage {
 	
 	
 	public static WebDriver driver = DriverFactory.getdriver();
+	//ConfigReader config = new ConfigReader();// why do we need this line?
+
 	String URL = ConfigReader.getApplicationUrl();
 	String homeUrl = ConfigReader.getHomePage();
-	ConfigReader config = new ConfigReader();// why do we need this line?
-
-
-
+	
 	
 	@FindBy(xpath = "//a[@href='/home']")WebElement getStarted;
 

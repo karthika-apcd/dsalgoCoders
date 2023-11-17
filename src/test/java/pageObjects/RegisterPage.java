@@ -1,5 +1,4 @@
 package pageObjects;
-
 import java.util.List;
 import java.util.Map;
 import java.util.NoSuchElementException;
@@ -21,15 +20,15 @@ import utilities.LoggerLoad;
 public class RegisterPage {
 	public static WebDriver driver = DriverFactory.getdriver();
 	String homeUrl = ConfigReader.getHomePage();
-	@FindBy(xpath = "//*[@id=\"navbarCollapse\"]/div[2]/ul/a[2]")
+	@FindBy(xpath = "//a[@href='/register']")
 	WebElement registerLink;
-	@FindBy(xpath = "/html/body/div[2]/div/div[2]/form/input[5]")
+	@FindBy(xpath = "//*[@value='Register']")
 	WebElement registerButton;
-	@FindBy(id = "id_username")
+	@FindBy(xpath = "//*[@id='id_username']")
 	WebElement username;
-	@FindBy(id = "id_password1")
+	@FindBy(xpath = "//*[@id='id_password1']")
 	WebElement password;
-	@FindBy(id = "id_password2")
+	@FindBy(xpath = "//*[@id='id_password2']")
 	WebElement pwdConfirm;
 	@FindBy(xpath = "//*[@class='alert alert-primary']")
 	WebElement alertMsg;

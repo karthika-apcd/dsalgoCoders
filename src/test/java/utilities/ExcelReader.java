@@ -12,6 +12,7 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
+
 public class ExcelReader {
 	public static int totalRow;
 
@@ -31,7 +32,10 @@ public class ExcelReader {
 		return readSheet(sheet);
 		
 	}
-	
+	//method to read the data from the sheet name read in the above method
+	/*The readSheet method takes a Sheet object as input and reads the data row by row.
+	  It iterates through each row in the sheet (starting from the second row,
+	 as the first row is usually considered as the header row) and reads the cell values for each column.*/
 		public List<Map<String,String>> readSheet(Sheet sheet){
 			
 			Row row;
@@ -73,3 +77,14 @@ public class ExcelReader {
 			
 }
 
+/*For each row, a new LinkedHashMap named columnMapdata is created to store the column header 
+ * (from the first row) and its corresponding cell value for each column in the row. 
+ * The columnMapdata is then added to the excelRows list.
+ * 
+ * After iterating through all the rows, the excelRows list is returned, containing the data from the Excel sheet.
+
+The code also includes log statements using a custom LoggerLoad to print information about the actions performed,
+ such as file path, sheet name, total rows, total columns, etc. 
+This is helpful for debugging and understanding the execution flow.
+
+ */
