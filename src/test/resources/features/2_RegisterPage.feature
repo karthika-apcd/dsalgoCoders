@@ -17,7 +17,7 @@ Feature: User Validates the register page in DS Algo
     Given The user opens Register Page
     When  The user clicks "Register" button after entering username with other fields empty
 			 | username        |
-			 | Numpy@sdet117_1 |
+			 | kamala          |
     Then It should display an error "Please fill out this field." below Password textbox
     
   
@@ -26,7 +26,7 @@ Feature: User Validates the register page in DS Algo
    	Given The user opens Register Page
     When The user clicks "Register" button after entering "username" and "password" with Password Confirmation field empty
 			 | 	 username      | password     |
-			 | Numpy@sdet117_1 | testpassword |
+			 | kamala          | kamalavimala |
     Then It should display an error "Please fill out this field." below Password Confirmation textbox
         
   
@@ -43,7 +43,7 @@ Feature: User Validates the register page in DS Algo
     Given The user opens Register Page
     When The user enters a valid existing "username" with "password" and "password confirmation"
 	      | username     		| password  | password confirmation |
-	      | Numpy@sdet117_1 | RT56YUabc | RT56YUabc  							|
+	      | kamala          | RT56YUabc | RT56YUabc  							|
     Then It should display an error message "password_mismatch:The two password fields didn’t match."
     
     @TC_Register_07
@@ -51,7 +51,7 @@ Feature: User Validates the register page in DS Algo
     Given The user opens Register Page
     When The user clicks "Register" button after entering valid "username" and different passwords in "password" and "password confirmation" fields
 	      | username     		| password     | password confirmation |
-	      | Numpy@sdet117_1 | testpassword | testpassword1   | 
+	      | kamala          | testpassword | testpassword1   | 
     Then It should display an error message "password_mismatch:The two password fields didn’t match."
     
     @TC_Register_08
@@ -59,7 +59,7 @@ Feature: User Validates the register page in DS Algo
     Given The user opens Register Page
     When he user enters a valid "username" and "password" with characters less than 8
 	      | username     		| password | password confirmation |
-	      | Numpy@sdet117_1 | a1b2c3d  | a1b2c3d            |
+	      | kamala          | a1b2c3d  | a1b2c3d            |
     Then It should display an error message "password_mismatch:The two password fields didn’t match."
     
     @TC_Register_09
@@ -67,7 +67,7 @@ Feature: User Validates the register page in DS Algo
     Given The user opens Register Page
     When The user enters a valid "username" and "password" with only numbers
       | username     	 	| password | password confirmation |
-      | Numpy@sdet117_1 | 12345678 |              12345678 |
+      | kamala          | 12345678 |              12345678 |
     Then It should display an error message "password_mismatch:The two password fields didn’t match."
     
      @TC_Register_10
@@ -75,7 +75,7 @@ Feature: User Validates the register page in DS Algo
     Given The user opens Register Page
     When The user enters a valid "username" and "password" similar to username
       | username     		| password   	| password confirmation |
-      | Numpy@sdet117_1 | testsdet117 | testsdet117         |
+      | kamala          | testsdet132 | testsdet132           |
     Then It should display an error message "password_mismatch:The two password fields didn’t match."
     
     
@@ -84,7 +84,7 @@ Feature: User Validates the register page in DS Algo
     Given The user opens Register Page
     When The user enters a valid "username" and commonly used password "password"
       | username     	| password 	 | password confirmation |
-      | Numpy@sdet117_1 | Welcome1 | Welcome1          |
+      | kamala        | Welcome1   | Welcome1          |
     Then It should display an error message "password_mismatch:The two password fields didn’t match."
     
     
@@ -92,8 +92,8 @@ Feature: User Validates the register page in DS Algo
   Scenario:  The user is succesfully able to register 
     Given The user opens Register Page
     When The user enters a valid "username" and "password" and "password confirmation"
-      | username     | password  | password confirmation |
-      | Numpy@sdet117_166| RT56YU@78 | RT56YU@78       |
+      | username     | password     | password confirmation |
+      | kamala       | kamalavimala | kamalavimala       |
     Then The user should be redirected to Homepage with the message "New Account Created. You are logged in as Numpy@sdet117_166"
    		
     
@@ -103,17 +103,4 @@ Feature: User Validates the register page in DS Algo
     When The user clicks the "Sign Out" link
     Then The user should be redirected to the homepage with the message "Logged out successfully"
    
-    #
-     #@TC_Register_14
-  #Scenario Outline:  The user is able to signin with registered credential
-    #Given The user is in the Sign in page
-    #When The user enters a valid "<username>" and "<password>"
-    #Then click login button to verify
-    #
-    #Examples: 
-      #| username   			| password  |
-      #| Numpy@sdet117_15 | RT56YU@78 |
- 
-    
-    
     

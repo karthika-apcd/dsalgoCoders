@@ -111,14 +111,7 @@ public class RegisterPageSD {
 		register.clickRegisterButton();
 	}
 
-//	@Then("It should display an error message {string}")
-//	public void it_should_display_an_error_message_password_mismatch_the_two_password_fields_didn_t_match(
-//			String expErrorMsg) {
-//		LoggerLoad.info("Expected Error Message : " + expErrorMsg);
-//		LoggerLoad.info("Actual Message displayed in the browser : " + register.getErrorMsg());
-//		assertEquals(register.getErrorMsg(), expErrorMsg);
-//	}
-	
+
 	// @TC_Register_08	
 	@When("he user enters a valid {string} and {string} with characters less than {int}")
 	public void he_user_enters_a_valid_and_with_characters_less_than(String string, String string2, Integer int1,
@@ -129,13 +122,7 @@ public class RegisterPageSD {
 		register.clickRegisterButton();
 	}
 
-//	@Then("It should display an error message {string}")
-//	public void it_should_display_an_error_message_password_should_contain_at_least_characters(String expErrorMsg) {
-//		LoggerLoad.info("Expected Error Message : " + expErrorMsg);
-//		LoggerLoad.info("Actual Message displayed in the browser : " + register.getErrorMsg());
-//		//assertEquals(register.getErrorMsg(), expErrorMsg);
-//
-//	}
+
 	
 	// @TC_Register_09
 	@When("The user enters a valid {string} and {string} with only numbers")
@@ -148,12 +135,6 @@ public class RegisterPageSD {
 
 	}
 
-//	@Then("It should display an error message {string}")
-//	public void it_should_display_an_error_message_password_can_t_be_entirely_numeric(String expErrorMsg) {
-//		LoggerLoad.info("Expected Error Message : " + expErrorMsg);
-//		LoggerLoad.info("Actual Message displayed in the browser : " + register.getErrorMsg());
-//		assertEquals(register.getErrorMsg(), expErrorMsg);
-//	}
 
 	// @TC_Register_10
 	@When("The user enters a valid {string} and {string} similar to username")
@@ -166,12 +147,6 @@ public class RegisterPageSD {
 
 	}
 
-//	@Then("It should display an error message {string}")
-//	public void it_should_display_an_error_message_password_can_t_be_too_similar_to_your_other_personal_information(String expErrorMsg) {
-//		LoggerLoad.info("Expected Error Message : " + expErrorMsg);
-//		LoggerLoad.info("Actual Message displayed in the browser : " + register.getErrorMsg());
-//		assertEquals(register.getErrorMsg(), expErrorMsg);
-//	}
 
 	// @TC_Register_11
 	@When("The user enters a valid {string} and commonly used password {string}")
@@ -184,12 +159,7 @@ public class RegisterPageSD {
 
 	}
 
-//	@Then("It should display an error message {string}")
-//	public void it_should_display_an_error_message_password_can_t_be_commonly_used_password(String expErrorMsg) {
-//		LoggerLoad.info("Expected Error Message : " + expErrorMsg);
-//		LoggerLoad.info("Actual Message displayed in the browser : " + register.getErrorMsg());
-//		assertEquals(register.getErrorMsg(), expErrorMsg);
-//	}
+
 
 	// @TC_Register_12
 	@When("The user enters a valid {string} and {string} and {string}")
@@ -205,9 +175,7 @@ public class RegisterPageSD {
 	@Then("The user should be redirected to Homepage with the message {string}")
 	public void the_user_should_be_redirected_to_homepage_with_the_message(String successMsg) {
 		LoggerLoad.info("User is redirected to Homepage ");
-//		LoggerLoad.info("Expected Success Message : " + successMsg);
-//		LoggerLoad.info("Actual Message displayed in the browser : " + register.getMsg());
-//		assertEquals(register.getMsg(), successMsg);
+
 		String Title = register.verifyPageTitle();
 		LoggerLoad.info("Title of current page is : " + Title);
 		assertEquals(Title, "Registration", "Title do not match");
@@ -232,22 +200,5 @@ public class RegisterPageSD {
 		LoggerLoad.info("Actual Message displayed in the browser : " + register.getMsg());
 		assertEquals(register.getMsg(), successMsg);
 	}
-	
-	
-
-//	// @TC_Register_13
-//	@Given("The user is in the Sign in page")
-//	public void the_user_is_in_the_sign_in_page() {
-//		LoggerLoad.info("User is in the SignIn Page ");		
-//	}
-//
-//	@When("The user enters a valid {string} and {string}")
-//	public void the_user_enters_a_valid_and(String string, String string2) {
-//
-//	}
-//
-//	@Then("click login button to verify")
-//	public void click_login_button_to_verify() {
-//
-//	}
 }
+	
