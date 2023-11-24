@@ -57,20 +57,20 @@ public void the_user_clicks_on_dropdown_without_login(String string) {
 
 @Given("The user open Home Page")
 public void the_user_open_home_page() {
-	LoggerLoad.info("User is on home page");
+ LoggerLoad.info("User is on home page");
 }
 
 @When("The user click {string}")
 public void the_user_click(String string) {
-	LoggerLoad.info("The User clicks on SignIn Button");
+LoggerLoad.info("The User clicks on SignIn Button");
 	home.signInHomePage();
 }
 
 @Then("The user should be redirected to {string} page")
 public void the_user_should_be_redirected_to_page(String string) {
-	String title = home.verifyPageTitle();
-	LoggerLoad.info("Title of the Current Page : " + title);
-	assertEquals(title, "Login", "Page Title do not match");	
+String title = home.verifyPageTitle();
+LoggerLoad.info("Title of the Current Page : " + title);
+assertEquals(title, string, "Page Title do not match");	
 }
 
 @When("The user click Register")
