@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 
 
 @CucumberOptions(
-		plugin= {"pretty","html:target/CucumberReport/dsAlgoReport.html","com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",}, // reporting purpose
+		plugin= {"pretty","html:target/CucumberReport/dsAlgoReport.html","com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:","json:target/cucumber/cucumber.json"}, // reporting purpose
 		monochrome = false, // console output
 		tags = "",// tags from feature file
 		features = { "src/test/resources/features" }, // location of feature files
