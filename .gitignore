@@ -3,7 +3,8 @@ allure-results/
 allure-report/
 test-output/
 logs/
-ExtendReports/
+ExtentReports/
+.metadata/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
